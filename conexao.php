@@ -10,3 +10,4 @@ class Conexao
         return $connection;
     }
 }
+?>
